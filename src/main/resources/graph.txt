@@ -1,0 +1,23 @@
+10, 12
+NodeId_0, NodeName_1
+NodeId_1, NodeName_2
+NodeId_2, NodeName_3
+NodeId_3, NodeName_4
+NodeId_4, NodeName_5
+NodeId_5, NodeName_6
+NodeId_6, NodeName_7
+NodeId_7, NodeName_8
+NodeId_8, NodeName_9
+NodeId_9, NodeName_10
+Edge_0, 0, 1, 85
+Edge_1, 0, 2, 217
+Edge_2, 0, 4, 173
+Edge_3, 2, 6, 186
+Edge_4, 2, 7, 103
+Edge_5, 3, 7, 183
+Edge_6, 5, 8, 250
+Edge_7, 8, 9, 84
+Edge_8, 7, 9, 167
+Edge_9, 4, 9, 502
+Edge_10, 9, 10, 40
+Edge_11, 1, 10, 600
